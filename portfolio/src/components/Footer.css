@@ -1,0 +1,18 @@
+/* Footer.css */
+
+.footer {
+    width: 100%;
+    background-color: #000;  /* Dark background */
+    color: #fff;  /* Light text */
+    padding: 1em 0;  /* Space around the content */
+    position: absolute;
+    bottom: 0;
+  }
+  
+  .footer-content {
+    max-width: 1200px;  /* Maximum width of the content */
+    margin: 0 auto;  /* Center the content horizontally */
+    text-align: center;  /* Center the text */
+    font-size: 0.8em;  /* Smaller text */
+  }
+  

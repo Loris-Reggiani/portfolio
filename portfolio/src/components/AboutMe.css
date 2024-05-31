@@ -1,0 +1,33 @@
+/* AboutMe.css */
+
+.about-me {
+    color: #fff;
+    background-color: #000000; /* Or any other color you want */
+    padding: 2em;
+    margin: 2em 0;
+}
+
+.about-me h2 {
+    text-align: center;
+    color: #ffa500; /* Orange text */
+}
+
+.about-me-content {
+    padding: 1em 2em;
+}
+
+.about-me-content h3 {
+    color: #fff; /* white text */
+    margin-top: 1em;
+    font-size: 1.8em;
+
+}
+
+.about-me-content p {
+    color: #ffa500; /* orange text */
+    text-indent: 2em;
+}
+
+.highlight {
+    color: #ffa500; /* Orange text */
+}
